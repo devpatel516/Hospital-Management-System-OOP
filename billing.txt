@@ -1,0 +1,42 @@
+Bill for Patient: 
+Patient ID: PI001
+Name: Meet Modi
+Age: 23
+Gender: Male
+Disease: Heart Attack
+Admission Date: 2024-10-31
+Release Date: 2024-11-28
+Total Days: 28
+Medical Charges(INR): 252546.563
+Room Charges(INR): 28000.0
+Other Charges(INR): 10563.53
+Total Bill(INR): 291110.093
+----------------------------------
+Bill for Patient: 
+Patient ID: PI002
+Name: Raj Patel
+Age: 19
+Gender: Male
+Disease: Fever
+Admission Date: 2024-10-31
+Release Date: 2024-11-01
+Total Days: 1
+Medical Charges(INR): 1500.0
+Room Charges(INR): 1000.0
+Other Charges(INR): 100.0
+Total Bill(INR): 2600.0
+----------------------------------
+Bill for Patient: 
+Patient ID: PI001
+Name: Meet Modi
+Age: 23
+Gender: Male
+Disease: Heart Attack
+Admission Date: 2024-10-31
+Release Date: 2024-11-06
+Total Days: 6
+Medical Charges(INR): 1500.0
+Room Charges(INR): 6000.0
+Other Charges(INR): 100.0
+Total Bill(INR): 7600.0
+----------------------------------

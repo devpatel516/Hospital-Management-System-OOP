@@ -1,0 +1,16 @@
+Patient ID: PI001
+Name: Meet Modi
+Gender: Male
+Age: 23
+Disease: Heart Attack
+Admit Date: 2024-10-31
+---------------------------------------------
+
+Patient ID: PI002
+Name: Raj Patel
+Gender: Male
+Age: 19
+Disease: Fever
+Admit Date: 2024-10-31
+---------------------------------------------
+

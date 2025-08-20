@@ -1,0 +1,14 @@
+Doctor ID: DOC001
+Name: Jeet Patel
+Gender: Male
+Age: 56
+Specialization: Cardiology
+---------------------------------------------
+
+Doctor ID: DOC002
+Name: Harshit Sharma
+Gender: Male
+Age: 36
+Specialization: Joint replacement
+---------------------------------------------
+
